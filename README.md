@@ -5,7 +5,7 @@ Disclaimer: I do not own any of the tools available here. This is just to help t
 
 All credit goes to the 'No More Ransom' project at https://www.nomoreransom.org/en/decryption-tools.html (more information and how-to guides are available there).
 
-Other tools not found in the aforementioned page were discovered from various other reliable online sources (such as Avast, Bitdefender and Emsisoft).
+Other tools not found in the aforementioned page were discovered from various other reliable online sources (such as Avast, AVG, Bitdefender, Emsisoft, Kaspersky, etc).
 
 ## To-Do List:
 - Add instruction manuals
