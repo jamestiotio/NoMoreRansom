@@ -8,6 +8,6 @@ All credit goes to the 'No More Ransom' project at https://www.nomoreransom.org/
 Other tools not found in the aforementioned page were discovered from various other reliable online sources (such as Avast, AVG, Bitdefender, Emsisoft, Kaspersky, etc).
 
 ## To-Do List:
-- Add instruction manuals
-- Eat some Indonesian food
-- Study for A-Levels
+- Add instruction manuals, if needed.
+- ~~Eat some Indonesian food~~
+- ~~Study for A-Levels~~
