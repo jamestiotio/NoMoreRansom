@@ -29,6 +29,6 @@ License agreement and copyright for each tool provided here depend on their resp
 Please don't just blindly trust me (I am just a random person on the Internet, after all) and ensure that you actually check each decryptor executable that you would like to run first by using any reliable antivirus tool (either online such as [VirusTotal](https://www.virustotal.com/) or any other downloadable/installable antivirus tools). Before you decrypt any files, ensure that you have removed the corresponding malware from your system first. Otherwise, it will repeatedly lock your system or encrypt files. Any reliable antivirus solution can do this for you. I am not responsible for any breakage/problems to your computer system/files/data if you decide to use/misuse/abuse these executables.
 
 ## Future To-Do List
-- Add instruction manuals and how-to guides (need to figure out how to include guides that are published in the form of online webpages, instead of PDF files).
+- Add more instruction manuals and how-to guides (need to figure out how to include guides that are published in the form of online webpages, instead of PDF files).
 - Update with more decryptors as more ransomwares are created.
 
